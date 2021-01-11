@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "es.autowired"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "afiliados",
+    "packageName": "es.autowired",
+    "packageFolder": "es/autowired",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2E2N2MzOTQ0MmQxZDk0ZGMxM2IwOTEyZmJmNjUxMGVlZTM0MDM2NmJmNGEzYjQ5MTkzZjc4MjQxNTYwNDQzZTI3NmE5MDZmMWNiZDlmNWZmNWFiZGMwZTIzMmYzNWExNDcwYzQzZDM4ZDY4Yjk0OTYzYTBlNTBmNTIxNDIxNjg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1610370090052,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
